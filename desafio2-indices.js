@@ -19,3 +19,5 @@ const numeros = [15, 3, 42, 8, 27];
 const resultado = indicesMaiorMenor(numeros);
 console.log("Índice do maior:", resultado.indiceMaior); // 2
 console.log("Índice do menor:", resultado.indiceMenor); // 1
+
+module.exports = indicesMaiorMenor;

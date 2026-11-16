@@ -11,3 +11,5 @@ function mdc(a, b) {
 console.log(mdc(48, 18)); // 6
 console.log(mdc(100, 75)); // 25
 console.log(mdc(17, 5)); // 1
+
+module.exports = mdc;

@@ -1,0 +1,24 @@
+{
+  "name": "desafios-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio1-mdc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipemaia7/desafios-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/felipemaia7/desafios-javascript/issues"
+  },
+  "homepage": "https://github.com/felipemaia7/desafios-javascript#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}

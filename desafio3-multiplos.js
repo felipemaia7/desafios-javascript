@@ -10,3 +10,5 @@ function somaMultiplos(limite) {
 }
 
 console.log(somaMultiplos(1000)); // 156361
+
+module.exports = somaMultiplos;
